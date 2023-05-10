@@ -1,4 +1,4 @@
-# Inventory-Managment-System
+# Inventory-Managment-System-With-Node.js and React
 • To manage their inventory, admin or supervisors must first log into the Edara dashboard. 
 • Admin can manage warehouses ( add, update, delete and list). 
 • Each warehouse has its own set of products, which the admin control. 
